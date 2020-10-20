@@ -1,3 +1,5 @@
+// server file used to initate the ports
+
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
