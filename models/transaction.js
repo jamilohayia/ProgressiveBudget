@@ -1,3 +1,5 @@
+// mongoose database transaction code.  Schema is created below.
+
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
